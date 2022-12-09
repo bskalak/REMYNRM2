@@ -1,2 +1,2 @@
 # REMYNRM2
-https://raw.githubusercontent.com/bskalak/REMYNRM2/main
+https://raw.githubusercontent.com/bskalak/REMYNRM2/main/REMYvrmwithcolors.vrm
